@@ -14,7 +14,7 @@ If all requirements are met, return true, 
 
 otherwise return false  */
 
-function IsValidFunction() {
+function IsValidPassword() {
 
     let usernameInput = prompt(`Enter username. Must contain atleast 3 characters.`)
 
@@ -38,4 +38,4 @@ function IsValidFunction() {
 
 }
 
-IsValidFunction();
+IsValidPassword();
